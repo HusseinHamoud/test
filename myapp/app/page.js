@@ -9,6 +9,8 @@ export default function Home() {
 
 
         <h1>nizar change </h1>
+
+        <h2>change 2</h2>
       </div>
     </main>
   )
