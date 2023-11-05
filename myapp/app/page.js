@@ -6,6 +6,9 @@ export default function Home() {
     <main className={styles.main}>
       <div>
         Hello world!
+
+
+        <h1>nizar change </h1>
       </div>
     </main>
   )
